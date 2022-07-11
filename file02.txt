@@ -1,1 +1,2 @@
 This is the  file02.txt and these are its contents
+This is the file modified in local repo for branch01
